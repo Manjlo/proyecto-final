@@ -1,0 +1,595 @@
+[
+ {
+   	"nombre":"El padrino",
+	"image":"https://ih1.redbubble.net/image.1275478949.6629/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+	"año": 1972,
+	"idioma original":["Inglés","Italiano","Latín"],
+	"director":"Francis Ford Coppola",
+	"genero":["Gansteres","Drama"],
+	"actores principales":["Marlon Brando","Al Pacino","Robert Duvall",
+	"James Caan","Richard Castellano","Diane Keaton"]
+ },
+ {
+	"nombre":"El mago de Oz",
+	"image":"https://www.infobae.com/new-resizer/WMnvcuh1cKGwfduV727XwzMvo3g=/768x1024/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/12/07161431/poster-mago-de-oz.jpg",
+	"año": 1939,
+	"idioma original":"Inglés",
+	"director":"Victor Fleming",
+	"genero":["Fantasía","Músical","Infantil"],
+	"actores principales":["Judy Garland","Frank Morgan","Ray Bolger",
+	"Jack Haley","Bert Lahr","Billie Burke","Margaret Hamilton"]
+ },
+ {
+	"nombre":"Ciudadano Kane",
+	"image":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+	"año": 1941,
+	"idioma original":"Inglés",
+	"director":"Orson Welles",
+	"genero":"Drama",
+	"actores principales":["Orson Welles","Joseph Cotten","Everett Sloane",
+	"George Coulouris","Dorothy Comingore","Ray Collins"]
+ },
+ {
+ 	"nombre":"Sueños de libertad",
+	"image":"https://mx.web.img3.acsta.net/pictures/19/07/30/21/54/2985567.jpg",
+	"año": 1994,
+	"idioma original":"Inglés",
+	"director":"Frank Darahoit",
+	"genero":"Drama",
+	"actores principales":["Tim Robbins","Morgan Freeman","Bob Gunton",
+	"William Sadler","Clancy Brown","Gil Bellows"]
+ },
+ {
+	"nombre":"Pulp Fiction",
+	"image":"https://baulvintage.com/wp-content/uploads/2021/05/PULP-FICTION-POSTER.jpg",
+	"año": 1994,
+	"idioma original":"Inglés",
+	"director":"Quentin Tarantino",
+	"genero":"Cine policíaco",
+	"actores principales":["John Travolta","Uma Thurman","Samuel L. Jackson",
+	"Bruce Willis","Ving Rhames"]
+ },
+ {
+	"nombre":"Casablanca",
+	"image":"https://m.media-amazon.com/images/I/61Bc+jcl4LL._AC_SY679_.jpg",
+	"año": 1943,
+	"idioma original":["Inglés","Francés","Alemán","Italiano"],
+	"director":"Michael Curtiz",
+	"genero":["Drama","Romance","Bélica"],
+	"actores principales":["Humphrey Bogart","Ingrid Bergman"]
+ },
+ {
+   	"nombre":"El padrino II",
+	"image":"https://pbs.twimg.com/media/EsDEheiXMAQyWRZ.jpg:large",
+	"año": 1974,
+	"idioma original":["Inglés","Siliciano","Español"],
+	"director":"Francis Ford Coppola",
+	"genero":["Crímen","Drama"],
+	"actores principales":["Al Pacino","Robert de Niro","Robert Duvall",
+	"Diane Keaton"]
+ },
+ {
+   	"nombre":"la lista de Schindler",
+	"image":"https://es.web.img2.acsta.net/pictures/14/02/27/09/35/442750.jpg",
+	"año": 1994,
+	"idioma original":["Alemán","Inglés","Poláco","Yidis"],
+	"director":"Steven Spielberg",
+	"genero":["Cine bélico","Drama","Cine biográfico"],
+	"actores principales":["Liam Neeson","Ralph Fiennes","Ben Kingsley",
+	"Caroline Goodall"]
+ },
+ {
+   	"nombre":"Regreso al futuro",
+	"image":"https://m.media-amazon.com/images/I/71BPuv+iRbL._AC_SY741_.jpg",
+	"año": 1985,
+	"idioma original":"Inglés",
+	"director":"Robert Zemeckis",
+	"genero":["Ciencia ficción","Aventuras","Comedia"],
+	"actores principales":["Michael J. Fox","Christopher Lloyd","Crispin Glover",
+	"Lea Thompson"]
+ },
+ {
+   	"nombre":"Forest Gump",
+	"image":"https://m.media-amazon.com/images/I/613ZgTigTpL._AC_SY741_.jpg",
+	"año": 1994,
+	"idioma original":"Inglés",
+	"director":"Robert Zemeckis",
+	"genero":["Comedia","Drama"],
+	"actores principales":["Tom Hanks","Robin Wright","Gary Sinise",
+	"Mykelti Williamson"]
+ },
+ {
+   	"nombre":"Goodfellas",
+	"image":"https://http2.mlstatic.com/D_NQ_NP_987374-MCO46389937558_062021-O.jpg",
+	"año": 1990,
+	"idioma original":"Inglés",
+	"director":"Martin Scorsese",
+	"genero":["Drama","Crímen","Gansteres"],
+	"actores principales":["Robert de Niro","Ray Liotta",
+	"Joe Pesci"]
+ },
+ {
+   	"nombre":"El silencio de los inocentes",
+	"image":"https://m.media-amazon.com/images/I/81SVDO6WcrL._AC_SY679_.jpg",
+	"año": 1991,
+	"idioma original":"Inglés",
+	"director":"Jonathan Demme",
+	"genero":["Terror","Suspenso psicológico","Policíaco"],
+	"actores principales":["Jodie Foster","Anthony Hopkins","Scott Glenn",
+	"Anthony Heald"]
+ },
+ {
+   	"nombre":"American Beauty",
+	"image":"https://m.media-amazon.com/images/I/4145GgRhb6L._AC_.jpg",
+	"año": 1999,
+	"idioma original":"Inglés",
+	"director":"Sam Mendes",
+	"genero":"Drama",
+	"actores principales":["Kevin Spacey","Annette Bening","Thora Birch",
+	"Wes Bentley"]
+ },
+ {
+   	"nombre":"La naranja mecanica",
+	"image":"https://cdn.culturagenial.com/es/imagenes/1971-a-clockwork-orange.jpg",
+	"año": 1971,
+	"idioma original":"Inglés",
+	"director":"Stanley Kubrick",
+	"genero":["Drama","Ciencia ficción","Comedia negra"],
+	"actores principales":["Malcolm McDowell","Patrick Magee","Adrienne Corri",
+	"Miriam Karlin"]
+ },
+ {
+   	"nombre":"El resplandor",
+	"image":"https://m.media-amazon.com/images/I/51g-8R5FOhL._AC_.jpg",
+	"año": 1980,
+	"idioma original":"Inglés",
+	"director":"Stanley Kubrick",
+	"genero":["Terror","Drama"],
+	"actores principales":["Jack Nicholson","Shelley Duvall","Danny Lloyd",
+	"Scatman Crothers"]
+ },
+ {
+   	"nombre":"El club de la lucha",
+	"image":"https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/69/04/88/20140966.jpg",
+	"año": 1999,
+	"idioma original":"Inglés",
+	"director":"David Fincher",
+	"genero":["Comedia negra","Drama","Thriller"],
+	"actores principales":["Edward Norton","Brad Pitt","Helena Bonham Carter",
+	"Meat Loaf","Jared Leto"]
+ },
+ {
+   	"nombre":"Alien",
+	"image":"https://i.pinimg.com/originals/8a/07/f5/8a07f5c7216bd016fe8dbc82a66c597a.png",
+	"año": 1979,
+	"idioma original":"Inglés",
+	"director":"Ridley Scott",
+	"genero":["Ciencia ficción","Terror","Suspenso"],
+	"actores principales":["Tom Skerritt","Sigourney Weaver","Veronica Cartwright",
+	"Harry Dean Stanton"]
+ },
+ {
+   	"nombre":"Toy story",
+	"image":"https://m.media-amazon.com/images/I/61QPrqydVoL._AC_SY679_.jpg",
+	"año": 1995,
+	"idioma original":"Inglés",
+	"director":"John Lasseter",
+	"genero":["Animación","Comedia","Aventura","Infantil"],
+	"actores principales":["Tom Hanks","Tim Allen","Don Rickles",
+	"Jim Varney","John Morris","Wallace Shawn"]
+ },
+ {
+   	"nombre":"The matrix",
+	"image":"https://c8.alamy.com/compes/e5m74k/matrix-poster-1999-e5m74k.jpg",
+	"año": 1999,
+	"idioma original":"Inglés",
+	"director":"Hermanas Wachowski",
+	"genero":["Acción","Cyberpunk"],
+	"actores principales":["Keanu Reeves","Laurence Fishburne","Carrie-Anne Moss",
+	"Hugo Weaving"]
+ },
+ {
+   	"nombre":"Titanic",
+	"image":"https://m.media-amazon.com/images/I/713cdKBBjqL._AC_SY741_.jpg",
+	"año": 1997,
+	"idioma original":"Inglés",
+	"director":"James Cameron",
+	"genero":["Romance","Drama","Catástrofe"],
+	"actores principales":["Kate Winslet","Leonardo DiCaprio","Billy Zane",
+	"Gloria Stuart","Bill Paxton","Kathy Bates","Frances Fisher"]
+ },
+ {
+   	"nombre":"Salvando al soldado Ryan",
+	"image":"https://es.web.img3.acsta.net/pictures/14/03/05/09/42/163621.jpg",
+	"año": 1998,
+	"idioma original":["Inglés","Francés","Alemán"],
+	"director":"Steven Spielberg",
+	"genero":["Bélico","Drama","Historico","Épica"],
+	"actores principales":["Tom Hanks","Tom Sizemore","Edward Burns",
+	"Matt Damon"]
+ },
+ {
+   	"nombre":"Jurasic park",
+	"image":"https://m.media-amazon.com/images/I/61RLRZnbc+L._AC_SY450_.jpg",
+	"año": 1993,
+	"idioma original":["Inglés","Español"],
+	"director":"Steven Spielberg",
+	"genero":["Ciencia ficción","Aventura","Acción","Biopunk"],
+	"actores principales":["Sam Neill","Laura Dern","Jeff Goldblum",
+	"Richard Attenborough"]
+ },
+ {
+   	"nombre":"Brokeback  mountain",
+	"image":"https://c8.alamy.com/compes/py7h1b/brokeback-mountain-poster-de-pelicula-original-py7h1b.jpg",
+	"año": 2005,
+	"idioma original":"Inglés",
+	"director":"Ang Lee",
+	"genero":["Drama","Cine LGTB"],
+	"actores principales":["Heath Ledger","Jake Gyllenhaal","Michelle Williams",
+	"Anna Faris","Anne Hathaway"]
+ },
+ {
+   	"nombre":"Mad Max: Fury Road",
+	"image":"https://m.media-amazon.com/images/I/715dDARDrGL._AC_SY679_.jpg",
+	"año": 2015,
+	"idioma original":"Inglés",
+	"director":"George Miller",
+	"genero":["Acción","Aventura","Ciencia ficción apocalíptica","Humor negro"],
+	"actores principales":["Tom Hardy","Charlize Theron","Nicholas Hoult"]
+ },
+ {
+   	"nombre":"Parasitos",
+	"image":"https://mymodernmet.com/wp/wp-content/uploads/2020/02/parasite-film-tribute-1.jpg",
+	"año": 2019,
+	"idioma original":"Coreano",
+	"director":"Bong Joon-ho",
+	"genero":["Suspenso","Drama","Humor negro"],
+	"actores principales":["Song Kang-ho","Lee Sun-kyun","Cho Yeo-jeong",
+	"Choi Woo-shik"]
+ },
+ {
+   	"nombre":"¡Huye!",
+	"image":"https://http2.mlstatic.com/D_NQ_NP_623943-MLA26216395343_102017-O.webp",
+	"año": 2017,
+	"idioma original":"Inglés",
+	"director":"Jordan Peele",
+	"genero":["Terror","Suspenso"],
+	"actores principales":["Daniel Kaluuya","Allison Williams","Lakeith Stanfield"]
+ },
+ {
+   	"nombre":"El bueno, el feo y el malo",
+	"image":"https://m.media-amazon.com/images/I/61V4s3EG9jL._AC_SY741_.jpg",
+	"año": 1966,
+	"idioma original":["Inglés","Italiano","Español"],
+	"director":"Sergio Leone",
+	"genero":"Spaghetti western",
+	"actores principales":["Clint Eastwood","Lee Van Cleef","Eli Wallach"]
+ },
+ {
+   	"nombre":"Roma",
+	"image":"https://m.media-amazon.com/images/I/71T6XelSqYL._AC_SY679_.jpg",
+	"año": 2018,
+	"idioma original":["Español","Míxteco"],
+	"director":"Alfonso Cuarón",
+	"genero":"Drama",
+	"actores principales":["Yalitza Aparicio","Marina de Tavira"]
+ },
+ {
+   	"nombre":"El exorcista",
+	"image":"https://i.pinimg.com/originals/ab/3e/63/ab3e637f837a70ece10ce89698794354.jpg",
+	"año": 1973,
+	"idioma original":"Inglés",
+	"director":"William Friedkin",
+	"genero":"Terror",
+	"actores principales":["Ellen Burstyn","Jason Miller","Linda Blair",
+	"Max Von Sydow"]
+ },
+ {
+   	"nombre":"Rambo",
+	"image":"https://c8.alamy.com/compes/r59hty/rambo-poster-de-pelicula-original-r59hty.jpg",
+	"año": 1982,
+	"idioma original":"Inglés",
+	"director":"Ted Kotcheff",
+	"genero":"Acción",
+	"actores principales":"Sylvester Stallone"
+ },
+ {
+   	"nombre":"Terminator",
+	"image":"https://originalvintagemovieposters.com/wp-content/uploads/2021/06/Terminator-6311-scaled.jpg",
+	"año": 1984,
+	"idioma original":"Inglés",
+	"director":"James Cameron",
+	"genero":["Acción","Ciencia ficción","Suspenso"],
+	"actores principales":["Arnold Schwarzenegger","Linda Hamilton","Michael Biehn"]
+ },
+ {
+   	"nombre":"Toro Salvaje",
+	"image":"https://es.web.img3.acsta.net/medias/nmedia/18/67/70/16/20187590.jpg",
+	"año": 1980,
+	"idioma original":"Inglés",
+	"director":"Martin Scorsese",
+	"genero":["Drama","Biopic"],
+	"actores principales":["Robert de Niro","Cathy Moriarty",
+	"Joe Pesci"]
+ },
+ {
+   	"nombre":"Interstellar",
+	"image":"https://m.media-amazon.com/images/I/716P1xCmnPL._AC_SS450_.jpg",
+	"año": 2014,
+	"idioma original":"Inglés",
+	"director":"Christopher Nolan",
+	"genero":["Ciencia ficción","Drama","Dístopia","Space ópera",
+	"ciencia ficcion apocaliptica","epica"],
+	"actores principales":["Matthew McConaughey","Anne Hathaway","Jessica Chastain",
+	"Bill Irwin","Ellen Burstyn","Michael Caine","Matt Damon"]
+ },
+ {
+   	"nombre":"Contact",
+	"image":"https://i.etsystatic.com/27062086/r/il/bc22dc/2838972752/il_570xN.2838972752_fas7.jpg",
+	"año": 1997,
+	"idioma original":"Inglés",
+	"director":"Robert Zemeckis",
+	"genero":["Ciencia ficción","Drama"],
+	"actores principales":["Jodie Foster","Matthew McConaughey","James Woods",
+	"John Hurt"]
+ },
+ {
+   	"nombre":"El laberinto del fauno",
+	"image":"https://es.web.img3.acsta.net/pictures/14/04/02/10/50/047520.jpg",
+	"año": 2006,
+	"idioma original": "Español",
+	"director":"Guillermo del Toro",
+	"genero":["Fantasía oscura","Drama","Bélico","Terror","Fantaterror"],
+	"actores principales":["Ivana Baquero","Sergi López","Maribel Verdú",
+	"Doug Jones"]
+ },
+ {
+   	"nombre":"American Psycho",
+	"image":"https://cdn.shopify.com/s/files/1/1057/4964/products/American-Psycho-Vintage-Movie-Poster-Original-1-Sheet-27x41-6270.jpg?v=1648530331",
+	"año": 2000,
+	"idioma original":"Inglés",
+	"director":"Mary Harron",
+	"genero":["Terror","Humor negro"],
+	"actores principales":["Christian Bale","Willem Dafoe","Jared Leto",
+	"Josh Lucas"]
+ },
+ {
+   	"nombre":"E.T. el extraterrestre",
+	"image":"https://m.media-amazon.com/images/I/511sNRYM5zL._AC_.jpg",
+	"año": 1982,
+	"idioma original":"Inglés",
+	"director":"Steven Spielberg",
+	"genero":"Ciencia ficción",
+	"actores principales":["Henry Thomas","Drew Barrymore","Dee Wallace",
+	"Robert MacNaughton"]
+ },
+ {
+   	"nombre":"Batman: El caballero de la noche asciende",
+	"image":"https://i.pinimg.com/originals/53/1b/33/531b33a02e4b9279ff41f0205d88819f.jpg",
+	"año": 2012,
+	"idioma original":"Inglés",
+	"director":"Christopher Nolan",
+	"genero":["Acción","Drama","Aventura"],
+	"actores principales":["Christian Bale","Michael Caine","Gary Oldman",
+	"Anne Hathaway","Tom Hardy"]
+ },
+ {
+   	"nombre":"El gran dictador",
+	"image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Great_Dictator_%281940%29_poster.jpg",
+	"año": 1940,
+	"idioma original":["Inglés","Esperanto"],
+	"director":"Charles Chaplin",
+	"genero":["Sátira","Comedia dramática"],
+	"actores principales":["Charles Chaplin","Paulette Goddard","Jack Oakie"]
+ },
+ {
+   	"nombre":"Django sin cadenas",
+	"image":"https://m.media-amazon.com/images/I/81S9Tfz+LIL._AC_SY679_.jpg",
+	"año": 2012,
+	"idioma original":"Inglés",
+	"director":"Quentin Tarantino",
+	"genero":["Western dramático"],
+	"actores principales":["Jamie Foxx","Christoph Waltz","Leonardo DiCaprio",
+	"Kerry Washington","Samuel L. Jackson"]
+ },
+ {
+   	"nombre":"Batman: El caballero de la noche",
+	"image":"https://m.media-amazon.com/images/I/71dwS9phhCL._AC_SY679_.jpg",
+	"año": 2008,
+	"idioma original":"Inglés",
+	"director":"Christopher Nolan",
+	"genero":["Acción","Drama"],
+	"actores principales":["Christian Bale","Michael Caine","Heath Ledger",
+	"Gary Oldman","Aaron Eckhart","Maggie Gyllenhaal","Morgan Freeman"]
+ },
+ {
+   	"nombre":"El señor de los anillos: El retorno del rey",
+	"image":"https://m.media-amazon.com/images/I/81lD6R3Yu6L._AC_SY679_.jpg",
+	"año": 2003,
+	"idioma original":"Inglés",
+	"director":"Peter Jackson",
+	"genero":["Aventuras","Fantasía","Épica"],
+	"actores principales":["Elijah Wood","Ian McKellen","Liv Tyler",
+	"Viggo Mortensen","Sean Astin","Andy Serkis"]
+ },
+ {
+   	"nombre":"Seven",
+	"image":"https://i.pinimg.com/originals/c7/ec/62/c7ec6285f6ba7fdbd29e3a9f3b5244f9.jpg",
+	"año": 1995,
+	"idioma original":"Inglés",
+	"director":"David Fincher",
+	"genero":["Suspenso","Neo-noir","Drama"],
+	"actores principales":["Brad Pitt","Morgan Freeman","Gwyneth Paltrow",
+	"Kevin Spacey"]
+ },
+ {
+   	"nombre":"Ciudad de Dios",
+	"image":"https://i.pinimg.com/originals/fc/29/8c/fc298c195645b9158bbb6a7a2276ff4f.jpg",
+	"año": 2002,
+	"idioma original":"Portugues",
+	"director":["Fernando Meirelles","Kátia Lund"],
+	"genero":["Acción"],
+	"actores principales":["Alexandre Rodrigues","Leandro Firmino","Phellipe Haagensen",
+	"Douglas Silva","Jonathan Haagensen","Matheus Nachtergaele"]
+ },
+ {
+   	"nombre":"La vida es bella",
+	"image":"https://pics.filmaffinity.com/La_vida_es_bella-611574521-large.jpg",
+	"año": 1997,
+	"idioma original":"Italiano",
+	"director":"Roberto Benigni",
+	"genero":"Drama",
+	"actores principales":["Roberto Benigni","Nicoletta Braschi","Giorgio Cantarini"]
+ },
+ {
+   	"nombre":"La milla verde",
+	"image":"https://c8.alamy.com/compes/p0xgdt/el-titulo-original-de-la-pelicula-la-milla-verde-titulo-en-ingles-la-milla-verde-el-director-de-cine-frank-darabont-ano-1999-credito-castle-rock-entertainment-album-p0xgdt.jpg",
+	"año": 1999,
+	"idioma original":"Inglés",
+	"director":"Frank Darabont",
+	"genero":["Fantasía","Drama"],
+	"actores principales":["Tom Hanks","Michael Clarke Duncan","David Morse"]
+ },
+ {
+   	"nombre":"El viaje de Chihiro",
+	"image":"https://ramenparados.com/wp-content/uploads/2021/05/POSTER_CHIHIRO_2021.jpg",
+	"año": 2001,
+	"idioma original":"Japonés",
+	"director":"Hayao Miyazaki",
+	"genero":["Animada","Drama","Aventura","Fantasía"],
+	"actores principales":["Rumi Hiiragi","Miyu Irino","Mari Natsuki",
+	"Takeshi Naito"]
+ },
+ {
+   	"nombre":"El pianista",
+	"image":"https://es.web.img2.acsta.net/pictures/14/05/27/12/07/438875.jpg",
+	"año": 2002,
+	"idioma original":["Alemán","Inglés","Ruso","Francés"],
+	"director":"Roman Polanski",
+	"genero":["Biográfica","Drama","Bélico","Historico"],
+	"actores principales":["Adrien Brody","Thomas Kretschmann","Frank Finlay"]
+ },
+ {
+   	"nombre":"Bastardos sin gloria",
+	"image":"https://www.cinevistablog.com/images/bastardos-sin-gloria-poster.jpg",
+	"año": 2009,
+	"idioma original":["Alemán","Inglés","Italiano","Francés"],
+	"director":"Quentin Tarantino",
+	"genero":["Comedia","Drama","Bélico","Acción","Humor negro"],
+	"actores principales":["Brad Pitt","Christoph Waltz","Mélanie Laurenty",
+	"Eli Roth","Diane Kruger","Daniel Brühl","Til Schweiger","Michael Fassbender"]
+ },
+ {
+   	"nombre":"El profesor",
+	"image":"https://pics.filmaffinity.com/El_profesor_Detachment-847080587-large.jpg",
+	"año": 2011,
+	"idioma original":"Inglés",
+	"director":"Tony Kaye",
+	"genero":"Drama",
+	"actores principales":["Adrien Brody","Marcia Gay Harden","James Caanl",
+	"Christina Hendricks"]
+ },
+ {
+   	"nombre":"Leon el profesional",
+	"image":"https://m.media-amazon.com/images/I/61P-HNp5QsL._AC_SL1000_.jpg",
+	"año": 1994,
+	"idioma original":"Inglés",
+	"director":"Luc Besson",
+	"genero":["Suspense","Drama"],
+	"actores principales":["Jean Reno","Gary Oldman","Natalie Portman",
+	"Danny Aiello"]
+ },
+ {
+   	"nombre":"Gladiador",
+	"image":"https://c8.alamy.com/compes/r59h7f/gladiator-poster-de-pelicula-original-r59h7f.jpg",
+	"año": 2000,
+	"idioma original":"Inglés",
+	"director":"Ridley Scott",
+	"genero":["Acción","Aventura","Drama"],
+	"actores principales":["Russell Crowe","Joaquín Phoenix","Connie Nielsen"]
+ },
+ {
+   	"nombre":"Whiplash",
+	"image":"https://m.media-amazon.com/images/I/71YxutwE3yL._AC_SY741_.jpg",
+	"año": 2014,
+	"idioma original":"Inglés",
+	"director":"Damien Chazelle",
+	"genero":["Música","Drama"],
+	"actores principales":["Miles Teller","J. K. Simmons","Melissa Benoist",
+	"Austin Stowell"]
+ },
+ {
+   	"nombre":"Memento",
+	"image":"https://m.media-amazon.com/images/I/515EOVqRexL._AC_.jpg",
+	"año": 2000,
+	"idioma original":"Inglés",
+	"director":"Christopher Nolan",
+	"genero":"Suspenso psicologicomisterio",
+	"actores principales":["Guy Pearce","Carrie-Anne Moss","Joe Pantoliano"]
+ },
+ {
+   	"nombre":"Apocalipse now",
+	"image":"https://m.media-amazon.com/images/I/81qDeWCvYwL._AC_SY679_.jpg",
+	"año": 1979,
+	"idioma original":["Inglés","Francés","Vietnamita"],
+	"director":"Francis Ford Coppola",
+	"genero":["Bélico","Drama","Suspenso","Misterio","Terror","Épica"],
+	"actores principales":["Martin Sheen","Marlon Brando","Robert Duvall",
+	"Frederic Forrest"]
+ },
+ {
+   	"nombre":"Vengadores: Infinity war",
+	"image":"https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2018/04/vengadores-infinity-war-poster-imax.jpg?itok=rzHL0rTD",
+	"año": 2018,
+	"idioma original":"Inglés",
+	"director":["Anthony Russo","Joe Russo"],
+	"genero":["Acción","Aventura","Ciencia ficción","Fantasía","Superheroes"],
+	"actores principales":["Robert Downey Jr.","Chris Hemsworth","Mark Ruffalo",
+	"Chris Evans","Scarlett Johansson","Don Cheadle","Benedict Cumberbatch",
+	"Tom Holland","Chadwick Boseman","Zoe Saldana","Karen Gillan","Tom Hiddleston",
+	"Paul Bettany","Elizabeth Olsen","Anthony Mackie","Sebastian Stan",
+	"Idris Elba","Danai Gurira","Peter Dinklage","Benedict Wong","Pom Klementieff",
+	"Dave Bautista","Vin Diesel","Bradley Cooper","Gwyneth Paltrow","Benicio del Toro",
+	"Josh Brolin","Chris Pratt"]
+ },
+ {
+   	"nombre":"La ultima tentasion de cristo",
+	"image":"https://www.themoviedb.org/t/p/original/zAyCulPkOHA4AB4d4dK3XzUVwjt.jpg",
+	"año": 1988,
+	"idioma original":"Inglés",
+	"director":"Martin Scorsese",
+	"genero":"Drama",
+	"actores principales":["Willem Dafoe","Harvey Keitel","Barbara Hershey",
+	"Harry Dean Stanton","David Bowie"]
+ },
+ {
+   	"nombre":"Taxi Driver",
+	"image":"https://m.media-amazon.com/images/I/81oapdOFgVL._AC_SY741_.jpg",
+	"año": 1976,
+	"idioma original":"Inglés",
+	"director":"Martin Scorsese",
+	"genero":["Suspense","Neo-noir","Drama"],
+	"actores principales":["Robert de Niro","Jodie Foster",
+	"Albert Brooks","Harvey Keitel","Peter Boyle","Cybill Shepherd"]
+ },
+ {
+   	"nombre":"Revenant:El renacido",
+	"image":"https://cdn.shopify.com/s/files/1/1416/8662/products/revenant_2016_b_teaser_original_film_art_1200x.jpg?v=1625118125",
+	"año": 2015,
+	"idioma original":["Inglés","Pawnee","Francés"],
+	"director":"Alejandro González Iñárritu",
+	"genero":["Acción","Drama","Western"],
+	"actores principales":["Leonardo DiCaprio","Tom Hardy","Domhnall Gleeson",
+	"Will Poulter"]
+ },
+ {
+   	"nombre":"Poltergeist",
+	"image":"https://m.media-amazon.com/images/I/51ierxK2URL._AC_.jpg",
+	"año": 1982,
+	"idioma original":"Inglés",
+	"director":"Tobe Hooper",
+	"genero":["Terror","Thriller"],
+	"actores principales":["JoBeth Williams","Craig T. Nelson","Beatrice Straight",
+	"Dominique Dunne"]
+ }
+]
